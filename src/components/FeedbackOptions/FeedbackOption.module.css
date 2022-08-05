@@ -1,0 +1,9 @@
+.btnFeedback{
+    display: flex;
+}
+.btn{
+    padding: 5px;
+}
+.btnFeed:not(:last-child){
+    margin-right: 15px;
+}
